@@ -1,4 +1,4 @@
-# BCG-Data-Science-Analytics-Virtual-Experience-Program
+# BCG: Data-Science-Job-Simulation-at-Forage Platform
 ![BCG Virtual internship](https://user-images.githubusercontent.com/76781033/211288052-06feb4e3-8455-4d0a-8dbd-fb9f1add9ff8.png)
 
 ## Background
